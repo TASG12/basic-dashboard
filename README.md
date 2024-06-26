@@ -4,5 +4,5 @@ A very basic Home Assistant dashboard. Great for beginners and easy to understan
 # Dependencies
 All of these dependencies can be found on HACS.
 
-]Mushroom](https://github.com/piitaya/lovelace-mushroom)
+[Mushroom](https://github.com/piitaya/lovelace-mushroom)
 
