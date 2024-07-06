@@ -31,7 +31,7 @@ Step 5: Select "Open" on your new dashboard.
 
 Step 6: Select the pencil icon in the top corner.
 
-![image](https://github.com/TASG2012/basic-dashboard/assets/93336028/f758529d-99a4-46fb-8c7a-464a5eb5d18e)
+![image](https://github.com/TASG2012/basic-dashboard/assets/93336028/38966217-7ca6-485c-8109-8ff38c58a4e3)
 
 Step 7: Select the 3 dots then "Raw configuration editor".
 
